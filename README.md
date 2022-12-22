@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dividedbyzr0. Nice to meet you!
+- 🌱 I’m just beginning my programming journey, starting with Python.
+- 📫 If you want to reach me, email me at dividedbyzro@gmail.com
